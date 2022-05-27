@@ -475,7 +475,7 @@ body.dark-theme {
 @media screen and (min-width: 776px) {
   .projects__content,
   .skills__content {
-    grid-template-columns: repeat(2, 332px);
+    grid-template-columns: repeat(3, 332px);
   }
 
   .skills__content {
@@ -493,7 +493,7 @@ body.dark-theme {
 
   .change-theme {
     top: 2.5rem;
-    right: 2.5rem;
+    right: .1rem;
   }
 
   .profile {
